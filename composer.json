@@ -1,5 +1,5 @@
 {
-    "name": "nordsoftware/lumen-chained-exception-handler",
+    "name": "lupferjoel/lumen-chained-exception-handler",
     "description": "A chained exception handler for the Lumen framework",
     "type": "library",
     "license": "MIT",
