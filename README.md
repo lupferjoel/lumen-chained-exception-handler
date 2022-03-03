@@ -15,7 +15,7 @@ but all exceptions will be mangled into strings which is not always feasible.
 Run the following command to install the package through Composer:
 
 ```sh
-composer require nordsoftware/lumen-chained-exception-handler
+composer require lupferjoel/lumen-chained-exception-handler
 ```
 
 ## Usage
